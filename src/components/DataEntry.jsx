@@ -93,24 +93,7 @@ function DataEntry() {
 >
   Submit
 </button>
-      <button
-
-
-
-  onClick={() => setMessage("✅ Data submitted successfully!")}
-  style={{
-    backgroundColor: "#2563eb",
-    color: "white",
-    padding: "12px 30px",
-    border: "none",
-    borderRadius: "6px",
-    fontSize: "16px",
-    cursor: "pointer",
-    marginTop: "20px",
-  }}
->
-  Submit
-</button>
+     
 <p
   style={{
     color: "green",
